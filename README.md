@@ -1,1 +1,1 @@
-# MussyNotes
+Lazzy notes for mussy objects.
